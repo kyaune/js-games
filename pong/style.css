@@ -2,3 +2,7 @@
     margin: 0 auto;
     padding: 0 auto;
 }
+.myCanvas{
+    width: 840px;
+     height: 640px;
+}
